@@ -6,13 +6,13 @@
 <!-- ===== Typing intro animation ===== -->
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I'm+Tejashwan+Gangishetty;Building+cool+stuff+at+hackathons+🚀;Python+enthusiast+🐍;Team+Kacha+Mango+🥭;Always+learning+something+new+📚" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=650&lines=Hey+there!+I%27m+Tejashwan+Gangishetty;Building+cool+stuff+at+hackathons;Python+enthusiast;Team+Kacha+Mango;Always+learning+something+new" alt="Typing intro" />
   </a>
 </p>
 
 <!-- ===== Badges ===== -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=teja120805-cyber&label=Profile%20views&color=7F00FF&style=flat" alt="profile views" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=teja120805-cyber.teja120805-cyber&left_text=Profile%20views&right_color=%237F00FF" alt="profile views" />
   <a href="https://github.com/teja120805-cyber?tab=followers"><img src="https://img.shields.io/github/followers/teja120805-cyber?label=Followers&style=flat&color=00D4FF" alt="followers" /></a>
   <img src="https://img.shields.io/badge/📍-Vellore,%20India-00D4FF?style=flat" alt="location" />
 </p>
