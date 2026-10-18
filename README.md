@@ -1,6 +1,6 @@
 <!-- ===== Animated wave header ===== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=Hi%2C%20I'm%20Tejashwan%20👋&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20•%20Hackathon%20Builder%20•%20Vellore&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:00D4FF&height=220&section=header&text=Hi%2C%20I%27m%20Tejashwan&fontSize=44&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Student%20Developer%20%E2%80%A2%20Hackathon%20Builder%20%E2%80%A2%20Vellore&descAlignY=58&descSize=18" />
 </p>
 
 <!-- ===== Typing intro animation ===== -->
@@ -14,27 +14,27 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=teja120805-cyber.teja120805-cyber&left_text=Profile%20views&right_color=%237F00FF" alt="profile views" />
   <a href="https://github.com/teja120805-cyber?tab=followers"><img src="https://img.shields.io/github/followers/teja120805-cyber?label=Followers&style=flat&color=00D4FF" alt="followers" /></a>
-  <img src="https://img.shields.io/badge/📍-Vellore,%20India-00D4FF?style=flat" alt="location" />
+  <img src="https://img.shields.io/badge/Location-Vellore,%20India-00D4FF?style=flat" alt="location" />
 </p>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="coding animation" />
 
-- 🎓 Student developer based in **Vellore, India**
-- 🏆 Hackathon regular with team **Kacha Mango** 🥭 — built projects at **InnovAct 2025** and **Hackulus**
-- 🐍 Most of my code is in **Python**
-- 🌱 Currently learning and exploring new tech, one project at a time
-- 👯 Open to collaborating on hackathons and open source
-- ⚡ Fun fact: I name my teams after fruit 🥭
+- Student developer based in **Vellore, India**
+- Hackathon regular with team **Kacha Mango** — built projects at **InnovAct 2025** and **Hackulus**
+- Most of my code is in **Python**
+- Currently learning and exploring new tech, one project at a time
+- Open to collaborating on hackathons and open source
+- Fun fact: I name my teams after fruit
 
 <br clear="right"/>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <p align="center">
   <a href="https://github.com/teja120805-cyber/InnovAct-2025-Kacha-Mango">
@@ -47,7 +47,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -57,7 +57,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=teja120805-cyber&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
@@ -74,7 +74,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+## Contribution Snake
 
 <p align="center">
   <picture>
@@ -85,7 +85,7 @@
 
 ---
 
-## 🤝 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://github.com/teja120805-cyber"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
